@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: BurstCube
+description: A CubeSat for gravitational waves
+img: /assets/img/BC.png
 importance: 2
 ---
 

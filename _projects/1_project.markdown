@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: ComPair
+description: A prototype instrument working towards unlocking the Mev Sky
+img: /assets/img/ComPair_tray.png
 importance: 1
 ---
 
