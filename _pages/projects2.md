@@ -1,14 +1,19 @@
 ---
 layout: page
-title: research
-permalink: /projects/
-description: I build things. Often they work!
+title: hobbies
+permalink: /projects2/
+description: Beauty is in the eye of the beer holder.
 nav: true
 ---
 
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+
+Organize your courses by years, topics, or universities, however you like!
+
+
 <div class="projects grid">
 
-  {% assign sorted_projects = site.projects | sort: "importance" %}
+  {% assign sorted_projects = site.projects2 | sort: "importance" %}
   {% for project in sorted_projects %}
   <div class="grid-item">
     {% if project.redirect %}
