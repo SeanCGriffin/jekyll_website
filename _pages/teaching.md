@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-In 2017 and 2018 I taught two classes at the University of Maryland. Unfortunately, my research lately has had me too busy to teach, but I still regulalry supervise a number of undergrads and NASA interns working in the lab.
+In 2017 and 2018 I taught two classes at the University of Maryland. Unfortunately, my research lately has had me too busy to teach, but I still regularly supervise a number of undergrads and NASA interns working in the lab.
 
 ### Fall 2018: ASTR288C -- Astronomy Research Techniques
 This course covered an introduction to scientific analysis (parsing data, fitting, "tools of the trade") and independent research. 
