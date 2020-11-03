@@ -1,7 +1,7 @@
 ---
 layout: page
 title: research
-permalink: /projects/
+permalink: /research/
 description: I build things. Often they work!
 nav: true
 ---

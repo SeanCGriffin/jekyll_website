@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching and Outreach
+title: teaching and outreach
 description: 
 nav: true
 ---
