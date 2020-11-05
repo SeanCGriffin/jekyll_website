@@ -2,7 +2,7 @@
 layout: page
 title: ComPair
 description: A prototype instrument working towards unlocking the Mev Sky
-img: /assets/img/ComPair_tray.png
+img: /assets/img/ComPair-exploded.png
 importance: 1
 ---
 
