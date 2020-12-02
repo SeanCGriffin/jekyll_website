@@ -2,22 +2,25 @@
 layout: page
 title: BurstCube
 description: A CubeSat for gravitational waves
-img: /assets/img/BC.png
+img: /assets/img/BurstCube_open.png
 importance: 2
 ---
+
+BurstCube is a 6U (30 cm x 20 cm x 10 cm) CubeSat. The instrument comprises four CsI(Tl) scintillator crystals read out with arrays of silicon photomultipliers (SiPMs). 
+
+BurstCube's primary sciecne goal is to detect and characterize the electromagnetic counterparts to gravitational waves, namely short gamma-ray bursts (sGRBs). 
+
+BurstCube has two FPGAs (one for the instrument and one for the spacecraft). The first handles data acquisition from the SiPMs and instrument control. The second (which is what I work on) is the Command and Data Handling (C&DH) FPGA, which primarily handles the interface between the flight computer and the. 
+
+The BurstCube flight computer is built around the SpaceMicro CubeSat Space Processor (CSP) which is a space-qualified board built around the Xilinx Zynq SoC platform. The Zynq is a combined 2-core ARM processor and 
+
+My main job on BurstCube is to handle the interface between the instrument and the instrument flight software (iFSW) running on the CSP. 
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
